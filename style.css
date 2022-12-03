@@ -1,0 +1,23 @@
+* {
+	background-color: #fff;
+}
+
+input {
+	display: block;
+	width: 20vw;
+	height: 30vh;
+	font-size: 45px;
+	float: left;
+	background-color: blueviolet;
+	margin-left: 18vw;
+	margin-top: 25vh;
+	color: #fff;
+}
+
+#tekst {
+	position: absolute;
+	display: block;
+	left: 47vw;
+	top: 38vh;
+	font-size: 5em;
+}
